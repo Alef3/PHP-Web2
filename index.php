@@ -15,7 +15,7 @@
 	echo controle_de_consumo();
 	echo "</form>";} ?>
 
-<?php
+
 /*A função $callback compara dois elementos ($a e $b) e retorna um valor inteiro:
 
      - zero (0) significa que $a é igual a $b.
