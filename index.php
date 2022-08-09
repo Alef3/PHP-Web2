@@ -13,7 +13,7 @@
 <?php if(isset($_POST['usuario_entrada'])){
 	echo "<form>";
 	echo controle_de_consumo();
-	echo "</form>";} ?>
+	echo "</form>";}
 
 
 /*A função $callback compara dois elementos ($a e $b) e retorna um valor inteiro:
